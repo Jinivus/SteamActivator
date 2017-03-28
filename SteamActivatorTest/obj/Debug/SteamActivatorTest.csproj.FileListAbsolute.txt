@@ -1,0 +1,10 @@
+C:\Users\Matt\Documents\Projects\SteamActivator\SteamActivatorTest\bin\Debug\SteamActivatorTest.exe.config
+C:\Users\Matt\Documents\Projects\SteamActivator\SteamActivatorTest\bin\Debug\SteamActivatorTest.exe
+C:\Users\Matt\Documents\Projects\SteamActivator\SteamActivatorTest\bin\Debug\SteamActivatorTest.pdb
+C:\Users\Matt\Documents\Projects\SteamActivator\SteamActivatorTest\bin\Debug\ClassLibrary.dll
+C:\Users\Matt\Documents\Projects\SteamActivator\SteamActivatorTest\bin\Debug\Steam4NET.dll
+C:\Users\Matt\Documents\Projects\SteamActivator\SteamActivatorTest\bin\Debug\ClassLibrary.pdb
+C:\Users\Matt\Documents\Projects\SteamActivator\SteamActivatorTest\bin\Debug\Steam4NET.pdb
+C:\Users\Matt\Documents\Projects\SteamActivator\SteamActivatorTest\obj\Debug\SteamActivatorTest.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Projects\SteamActivator\SteamActivatorTest\obj\Debug\SteamActivatorTest.exe
+C:\Users\Matt\Documents\Projects\SteamActivator\SteamActivatorTest\obj\Debug\SteamActivatorTest.pdb
